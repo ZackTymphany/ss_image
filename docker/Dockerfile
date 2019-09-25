@@ -1,4 +1,4 @@
-FROM ubuntu16.04:latest
+FROM ubuntu-16.04:latest
 
 USER root 
 
