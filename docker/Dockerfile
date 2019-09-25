@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-USER root 
+#USER root 
 
 RUN mkdir workdir
 
